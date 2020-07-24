@@ -131,6 +131,11 @@
 
 
 }
+#main-content h2{
+	font-size: 2em;
+	color: white;
+
+}
 
 
 
@@ -202,7 +207,7 @@
 	}
 
 }
-@media(max-width: 767px){
+@media(max-width:767px ){
 	.navbar-brand{
 		padding-top: 10px;
 		height: 80px
